@@ -10,5 +10,6 @@ target 'CCC' do
   pod 'SwiftMessages', :inhibit_warnings => true
   pod 'NavigationStack'
   pod 'Loaf'
+  pod 'Firebase/Analytics'
 
 end
